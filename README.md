@@ -15,3 +15,5 @@ Run the class for AgeFormTC
 
   Allure report will be generated as the following   
 ![image](https://github.com/AbdelrhmanSayed1/J-germeister/assets/64142081/b6918cf3-a8a7-4507-9d47-237ac26de226)
+### Integration with Jenkins
+![image](https://github.com/AbdelrhmanSayed1/J-germeister/assets/64142081/2f0fd5e3-8ea1-4581-8f75-c9425d011505)
